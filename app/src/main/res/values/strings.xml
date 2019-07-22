@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_custom_camera">CustomCameraActivity</string>
+    <string name="app_name">mini_douyin</string>
+    <string name="post_feed">上传及列表</string>
+    <string name="custom">录制</string>
+    <string name="select_an_image">选择封面</string>
+    <string name="select_a_video">选择视频</string>
+    <string name="post_it">上传</string>
+    <string name="success_try_refresh">上传成功</string>
+</resources>
